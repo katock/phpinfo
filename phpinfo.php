@@ -4,3 +4,4 @@
 // 
 phpinfo();
 phpinfo();
+phpinfo(); // #2
